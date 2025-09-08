@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Kishore Kumar Music & Webpage Summarizer",
+  "name": "LOVE Kishore Kumar Songs",
   "version": "1.0",
-  "description": "Play Kishore Kumar songs from YouTube and summarize the current webpage.",
+  "description": "Love Kishore Kumar songs from YouTube and summarize the current webpage.",
   "permissions": ["activeTab", "scripting", "tabs"],
   "host_permissions": ["<all_urls>"],
   "action": {
