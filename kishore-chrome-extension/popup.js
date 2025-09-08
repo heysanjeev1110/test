@@ -9,5 +9,6 @@ document.getElementById('play-music').addEventListener('click', function() {
     'https://www.youtube.com/watch?v=kJIidWqWjUs&list=RDkJIidWqWjUs&start_radio=1' // Example playlist
   ];
   const url = kishoreSongs[Math.floor(Math.random() * kishoreSongs.length)];
+  url='https://www.youtube.com/watch?v=c_my5B15ENU&list=RDc_my5B15ENU&start_radio=1';
   chrome.tabs.create({ url });
 });
